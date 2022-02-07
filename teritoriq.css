@@ -1,0 +1,80 @@
+body {
+    background-color: #608000;
+}
+#gerb{
+    font-size: 400%;;
+    color:#ffffff;
+    text-align: center;
+    text-shadow: 10px 10px 5px  #004d00;
+ }
+ #istgerb{
+    font-size: 270%;;
+    color:#ffffff;
+    text-align: center;
+    text-shadow: 10px 10px 5px  #004d00;
+ }
+ #zname{
+    font-size: 400%;;
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 10px 10px 5px  #004d00;
+ }
+#teritoriq{
+   font-size: 400%;;
+   color:#ffffff;
+   text-align: center;
+   text-shadow: 10px 10px 5px  #004d00;
+}
+#bgmap{
+    width: 100%;
+    height: auto;
+}
+#istgerbpic{
+    width: 220px;
+    height: 240px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#bgmap{
+    width: 600px;
+    height: 400px;
+}
+#bgflag{
+    width: 100%;
+    height: auto;
+    align-items: center;
+}
+.tab{
+    width: 50%;
+}
+table{
+    width: 100%;
+}
+#tertext{
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    color: #ffffff;
+}
+.gerbove{
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    color: #ffffff;
+    text-align: center;
+}
+.himn{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color: #ffffff;
+    text-align: center;
+}
+.snimkihimn{
+    width: 400px;
+    height: 550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
